@@ -1,1 +1,3 @@
 # Web-Attacks-Using-Burp-Suite
+
+The aim of this project is to provide a foundation in performing security testing of web applications using Burp Suite and its various tools.  Burp Suite and its tools work seamlessly together in order to support the entire web application testing process. The testing includes intercepting proxy, brute force, injection attack, JavaScript injections and SQL injections.
